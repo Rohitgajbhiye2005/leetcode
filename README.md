@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0027-remove-element) |
 | [0152-maximum-product-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
