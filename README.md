@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -78,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Recursion
 |  |
