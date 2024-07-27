@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
