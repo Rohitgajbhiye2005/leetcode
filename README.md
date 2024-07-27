@@ -115,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
