@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
