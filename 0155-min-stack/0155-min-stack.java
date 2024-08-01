@@ -1,48 +1,42 @@
-import java.util.Stack;
-
 class MinStack {
-    private Stack<Long> st;
-    private long mini;
-
+    Node head = null;
     public MinStack() {
-        st = new Stack<>();
-        mini = Long.MAX_VALUE;
+        
     }
-
+    
     public void push(int val) {
-        long value = val;
-        if (st.isEmpty()) {
-            st.push(value);
-            mini = value;
-        } else {
-            if (value < mini) {
-                st.push(2 * value - mini);
-                mini = value;
-            } else {
-                st.push(value);
-            }
+        if(head == null)
+        {
+            head = new Node(val,val,null);
+        }
+        else{
+            head = new Node(val,Math.min(head.min,val),head);
         }
     }
-
+    
     public void pop() {
-        if (st.isEmpty()) return;
-
-        long val = st.pop();
-        if (val < mini) {
-            mini = 2 * mini - val;
-        }
+        head = head.next;
     }
-
+    
     public int top() {
-        long val = st.peek();
-        if (val < mini) {
-            return (int) mini;
-        }
-        return (int) val;
+        return head.val;
     }
-
+    
     public int getMin() {
-        return (int) mini;
+        return head.min;
+    }
+}
+
+class Node{
+    public int val;
+    public int min;
+    public Node next;
+
+    public Node(int val,int min,Node next)
+    {
+        this.val = val;
+        this.min = min;
+        this.next = next;
     }
 }
 
