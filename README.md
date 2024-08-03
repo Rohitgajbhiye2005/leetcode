@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
