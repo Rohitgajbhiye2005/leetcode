@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
