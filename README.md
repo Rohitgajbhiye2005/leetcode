@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0058-length-of-last-word) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Design
 |  |
