@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0058-length-of-last-word) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Array
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Design
