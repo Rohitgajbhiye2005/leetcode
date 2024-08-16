@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
