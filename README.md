@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0058-length-of-last-word) |
 | [0415-add-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
