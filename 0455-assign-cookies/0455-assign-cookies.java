@@ -5,12 +5,9 @@ class Solution {
         int left=0,right=0;
         while(left<g.length && right<s.length){
             if(g[left]<=s[right]){
-                right++;
                 left++;
             }
-           else{
-            right++;
-           }
+           right++;
         } 
        return left;
     }
