@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0260-single-number-iii) |
+| [0275-h-index-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0367-valid-perfect-square) |
