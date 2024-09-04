@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0890-lemonade-change) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0561-array-partition) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0463-island-perimeter) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
