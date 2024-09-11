@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
