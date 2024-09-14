@@ -14,8 +14,11 @@ class Solution {
             temp = temp.next;
         }
 
-        temp.next = (list1 != null) ? list1 : list2;
-
-        return dummy.next;        
+        if (list1 != null) {
+           temp.next = list1;  } 
+        else {
+           temp.next = list2;
+       } 
+       return dummy.next;        
     }
 }
