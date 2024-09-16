@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
