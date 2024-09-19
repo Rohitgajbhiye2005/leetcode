@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0650-2-keys-keyboard](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0735-asteroid-collision) |
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
