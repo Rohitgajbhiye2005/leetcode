@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0735-asteroid-collision) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
