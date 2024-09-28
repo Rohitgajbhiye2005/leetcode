@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0455-assign-cookies) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0561-array-partition) |
 ## Monotonic Stack
 |  |
