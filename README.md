@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
