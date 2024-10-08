@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0412-fizz-buzz) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -476,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
