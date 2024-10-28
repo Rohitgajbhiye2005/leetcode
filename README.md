@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0326-power-of-three) |
+| [2050-count-good-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0650-2-keys-keyboard](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0670-maximum-swap) |
+| [2050-count-good-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
 ## Bit Manipulation
 |  |
