@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2580-circular-sentence](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3379-score-of-a-string](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
