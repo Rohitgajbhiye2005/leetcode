@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
