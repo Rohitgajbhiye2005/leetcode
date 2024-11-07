@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2634-minimum-common-value) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2634-minimum-common-value) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Design
