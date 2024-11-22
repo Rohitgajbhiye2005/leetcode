@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1137-height-checker) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0463-island-perimeter) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Recursion
