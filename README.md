@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0415-add-strings) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
