@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0561-array-partition) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0500-keyboard-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
