@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0231-power-of-two) |
@@ -642,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
