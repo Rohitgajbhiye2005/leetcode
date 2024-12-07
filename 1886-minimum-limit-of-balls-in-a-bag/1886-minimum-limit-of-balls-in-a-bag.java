@@ -1,15 +1,23 @@
 class Solution {
-    public int minimumSize(int[] nums, int maxOps) {
-        int low = 1, high = Arrays.stream(nums).max().getAsInt();
-        while (low < high) {
-            int mid = (low + high) / 2;
-            int ops = 0;
-            for (int n : nums) {
-                ops += (n - 1) / mid;
-            }
-            if (ops <= maxOps) high = mid;
-            else low = mid + 1;
+    public int minimumSize(int[] nums, int maxOp) {
+        int high = 0;
+        for(int i: nums){
+            if(high < i) high = i;
         }
-        return high;
+        int low =1,  ans = -1;
+        while(low<= high){
+            int mid= (low+high)/2, sum = 0;
+            for(int i: nums){
+                sum+= (i-1)/mid;
+            }
+            if(sum<= maxOp){
+                high = mid-1;
+                ans = mid;
+            }
+            else{
+                low = mid+1;
+            }
+        }
+        return ans;
     }
 }
