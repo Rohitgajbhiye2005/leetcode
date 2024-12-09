@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3427-special-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3427-special-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [3427-special-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3427-special-array-ii) |
 ## Interactive
 |  |
 | ------- |
