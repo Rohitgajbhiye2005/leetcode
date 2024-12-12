@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0735-asteroid-collision) |
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1127-last-stone-weight) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
