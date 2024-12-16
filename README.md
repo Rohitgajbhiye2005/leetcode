@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
