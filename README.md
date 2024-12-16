@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3311-ant-on-the-boundary](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3427-special-array-ii) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3311-ant-on-the-boundary](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [3311-ant-on-the-boundary](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3427-special-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3427-special-array-ii) |
 ## Interactive
 |  |
