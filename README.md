@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
+| [2491-smallest-even-multiple](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Memoization
 |  |
