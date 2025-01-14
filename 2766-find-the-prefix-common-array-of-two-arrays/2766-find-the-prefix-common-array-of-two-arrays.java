@@ -24,7 +24,6 @@ class Solution {
             prefixCommonArray[currentIndex] = count;
         }
 
-        // Return the final array with counts of common elements in each prefix
         return prefixCommonArray;
     }
 }
