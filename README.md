@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0412-fizz-buzz) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
