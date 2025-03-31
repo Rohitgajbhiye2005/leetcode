@@ -1,5 +1,11 @@
 class Solution {
     public int maxContainers(int n, int w, int maxWeight) {
-        return (n*n > maxWeight/w) ? maxWeight / w : n*n;
+        int total=n*n*w;
+        if(total>maxWeight){
+            while(total>maxWeight){
+                total=total-w;
+            }
+        }
+        return total/w;
     }
 }
