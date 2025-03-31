@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Linked List
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2868-continuous-subarrays) |
