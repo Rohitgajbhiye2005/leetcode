@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1755-defuse-the-bomb) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2159-two-out-of-three](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2159-two-out-of-three) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2634-minimum-common-value) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
