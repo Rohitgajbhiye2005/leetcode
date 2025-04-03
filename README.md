@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2050-count-good-numbers) |
+| [2083-three-divisors](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2083-three-divisors) |
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2083-three-divisors) |
 ## Combinatorics
 |  |
 | ------- |
