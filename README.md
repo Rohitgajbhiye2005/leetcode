@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1448-maximum-69-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0670-maximum-swap) |
+| [1448-maximum-69-number](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2155-find-missing-observations) |
