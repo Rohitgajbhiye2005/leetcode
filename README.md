@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3311-ant-on-the-boundary](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
