@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
