@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2998-count-symmetric-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2083-three-divisors) |
+| [2998-count-symmetric-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
 |  |
