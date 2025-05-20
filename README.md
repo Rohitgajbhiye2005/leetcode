@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3639-zero-array-transformation-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [3311-ant-on-the-boundary](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3427-special-array-ii](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Rohitgajbhiye2005/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Interactive
 |  |
 | ------- |
